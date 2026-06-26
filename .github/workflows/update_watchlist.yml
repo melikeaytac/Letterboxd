@@ -30,6 +30,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
-          git add movies-data.js tanjutan_watchlist.csv
+          git add movies-data.js tanjutan_watchlist_detayli.csv
           git commit -m "🤖 Gece Güncellemesi: Yeni filmler eklendi" || echo "Değişiklik yok"
           git push
