@@ -135,6 +135,57 @@
       letter-spacing: -0.03em;
     }
 
+    /* KULLANICI PROFİLİ CSS */
+    .user-profile {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin: 24px auto 0 auto; /* h1'in altına boşluk bıraktık */
+      padding: 6px 18px 6px 6px;
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 999px;
+      transition: background 0.2s ease, transform 0.2s ease;
+      cursor: default;
+    }
+
+    .user-profile:hover {
+      background: rgba(255, 255, 255, 0.08);
+      transform: translateY(-2px);
+    }
+
+    .avatar {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 2px solid rgba(255, 255, 255, 0.1);
+      background: #1a1a1a;
+    }
+
+    .user-info {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .username {
+      font-weight: 700;
+      font-size: 1.05rem;
+      color: #ffffff;
+      letter-spacing: -0.01em;
+    }
+
+    .badge {
+      background: #209ce4;
+      color: #fff;
+      font-size: 0.65rem;
+      font-weight: 800;
+      padding: 3px 6px;
+      border-radius: 4px;
+      letter-spacing: 0.05em;
+    }
+
     .lead {
       margin: clamp(12px, 2vh, 20px) auto 0;
       max-width: 52ch;
@@ -353,30 +404,6 @@
       font-weight: 600;
     }
 
-    .info-list {
-      display: flex;
-      justify-content: center;
-      gap: clamp(12px, 3vw, 20px);
-      margin-top: clamp(16px, 3vh, 24px);
-      color: var(--muted);
-      font-size: clamp(0.8rem, 2.5vw, 0.9rem);
-      flex-wrap: wrap;
-    }
-
-    .info-list span {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-    }
-
-    .dot {
-      width: 6px;
-      height: 6px;
-      border-radius: 50%;
-      background: var(--accent-2);
-      box-shadow: 0 0 0 3px rgba(142, 197, 255, 0.12);
-    }
-
     .fade-in {
       animation: fadeIn 300ms ease forwards;
     }
@@ -397,8 +424,15 @@
   <main class="app">
     <section class="hero">
       <div class="eyebrow">Tanju İçin Özel Film Seçici</div>
-      <h1>Rastgele filmi seç, anahtar kelimeye bak, beğenirsen filmi göster.</h1>
-
+<h1>Düşünme Tanju, sadece bas ve kaderine razı ol.</h1>
+      <!-- EKLENEN PROFİL ALANI -->
+      <div class="user-profile">
+        <img src="avatar.jpg" alt="TanjuTan" class="avatar" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'44\' height=\'44\'><rect width=\'44\' height=\'44\' fill=\'%231a1a1a\'/></svg>'">
+        <div class="user-info">
+          <span class="username">TanjuTan</span>
+          <span class="badge">PATRON</span>
+        </div>
+      </div>
 
       <div class="controls">
         <div class="button-row">
@@ -419,7 +453,6 @@
           <div id="summaryBox" class="status-value fade-in" hidden></div>
         </div>
       </div>
-
 
     </section>
   </main>
