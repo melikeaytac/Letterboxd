@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>Film Keşif Kartı</title>
+  <style>
+    :root {
+      --bg: #0f1226;
+      --panel: rgba(17, 21, 44, 0.88);
+      --text: #f5f7ff;
+      --muted: #a9b0d4;
+      --accent: #ffb703;
+      --accent-2: #8ec5ff;
+      --line: rgba(255, 255, 255, 0.12);
+      --shadow: 0 24px 80px rgba(0, 0, 0, 0.35);
+    }
+
+    * {
+      box-sizing: border-box;
+      -webkit-tap-highlight-color: transparent;
+      /* Scrollbar'ları Firefox ve IE/Edge için gizliyoruz */
+      scrollbar-width: none; 
+      -ms-overflow-style: none;
+    }
+
+    /* Scrollbar'ları Chrome, Safari ve Opera için gizliyoruz */
+    *::-webkit-scrollbar {
+      display: none;
+    }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden; /* Dış ekran kesinlikle kaymaz */
+      font-family: Inter, "Segoe UI", Arial, sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at top left, rgba(255, 183, 3, 0.18), transparent 28%),
+        radial-gradient(circle at right top, rgba(142, 197, 255, 0.16), transparent 24%),
+        linear-gradient(160deg, #080b18 0%, #12162e 46%, #0b1020 100%);
+    }
+
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .app {
+      width: 100%;
+      max-width: 760px;
+      /* Ekranın kenarlarına yapışmaması için boşluğu app içine aldık */
+      padding: clamp(16px, 4vw, 24px); 
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+    }
+
+    .hero {
+      width: 100%;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: clamp(20px, 4vw, 32px);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(18px);
+      padding: clamp(32px, 5vh, 56px) clamp(20px, 5vw, 40px);
+      position: relative;
+      /* Çok küçük ekranlarda gizlice kaydırılabilir olsun ama çubuk görünmesin */
+      overflow-y: auto; 
+      overflow-x: hidden;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      max-height: 100%;
+    }
+
+    .hero::before,
+    .hero::after {
+      content: "";
+      position: absolute;
+      border-radius: 999px;
+      filter: blur(2px);
+      opacity: 0.45;
+      pointer-events: none;
+      z-index: -1;
+    }
+
+    .hero::before {
+      width: 260px;
+      height: 260px;
+      right: -90px;
+      top: -80px;
+      background: radial-gradient(circle, rgba(255, 183, 3, 0.55), transparent 68%);
+    }
+
+    .hero::after {
+      width: 220px;
+      height: 220px;
+      left: -80px;
+      bottom: -70px;
+      background: radial-gradient(circle, rgba(142, 197, 255, 0.48), transparent 65%);
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      font-size: clamp(0.75rem, 2vw, 0.85rem);
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent-2);
+      margin-bottom: clamp(12px, 2vh, 20px);
+    }
+
+    .eyebrow::before {
+      content: "";
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: var(--accent);
+      box-shadow: 0 0 0 5px rgba(255, 183, 3, 0.14);
+    }
+
+    h1 {
+      margin: 0 auto;
+      font-size: clamp(1.8rem, 5.5vw, 3.8rem);
+      line-height: 1.05;
+      max-width: 16ch;
+      letter-spacing: -0.03em;
+    }
+
+    .lead {
+      margin: clamp(12px, 2vh, 20px) auto 0;
+      max-width: 52ch;
+      color: var(--muted);
+      font-size: clamp(0.9rem, 3vw, 1.04rem);
+      line-height: 1.6;
+    }
+
+    .controls {
+      display: flex;
+      flex-direction: column;
+      gap: clamp(14px, 3vh, 20px);
+      margin-top: clamp(24px, 4vh, 36px);
+      width: 100%;
+      max-width: 500px;
+    }
+
+    .button-row {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    button {
+      appearance: none;
+      border: 0;
+      border-radius: 16px;
+      padding: clamp(12px, 2.5vh, 16px) 24px;
+      font-size: clamp(0.95rem, 2.5vw, 1rem);
+      font-weight: 700;
+      cursor: pointer;
+      transition: transform 160ms ease, box-shadow 160ms ease, background 160ms ease;
+      flex: 1;
+      min-width: 160px;
+    }
+
+    button:hover { transform: translateY(-2px); }
+    button:active { transform: translateY(1px); }
+
+    .primary {
+      background: linear-gradient(135deg, var(--accent), #ffd166);
+      color: #1a1a1a;
+      box-shadow: 0 12px 30px rgba(255, 183, 3, 0.26);
+    }
+
+    .secondary {
+      background: rgba(255, 255, 255, 0.08);
+      color: var(--text);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+    }
+
+    .status {
+      display: flex;
+      flex-direction: column;
+      gap: clamp(10px, 2vh, 14px);
+      padding: clamp(16px, 3vh, 20px);
+      border-radius: 20px;
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      text-align: center;
+    }
+
+    .status-label {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      color: var(--muted);
+    }
+
+    .status-value {
+      font-size: clamp(1rem, 3vw, 1.1rem);
+      font-weight: 700;
+      line-height: 1.4;
+    }
+
+    .keyword {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      margin: 0 auto;
+      padding: 10px 16px;
+      border-radius: 999px;
+      background: rgba(255, 183, 3, 0.12);
+      border: 1px solid rgba(255, 183, 3, 0.2);
+      color: #ffe08a;
+      font-weight: 700;
+      cursor: pointer;
+      user-select: none;
+      transition: transform 160ms ease, background 160ms ease;
+    }
+
+    .keyword:hover {
+      transform: translateY(-2px);
+      background: rgba(255, 183, 3, 0.18);
+    }
+
+    .keyword small {
+      color: rgba(255, 255, 255, 0.68);
+      font-weight: 600;
+      font-size: 0.8rem;
+    }
+
+    /* POPUP (MODAL) ALANI */
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      z-index: 9999;
+      background: rgba(10, 12, 26, 0.85);
+      backdrop-filter: blur(8px);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: clamp(12px, 3vw, 24px);
+      opacity: 0;
+      visibility: hidden;
+      transition: all 0.3s ease;
+    }
+
+    .modal-overlay.open {
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .modal-container {
+      width: 100%;
+      max-width: 440px;
+      max-height: 95dvh; 
+      overflow-y: auto;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 28px;
+      padding: clamp(16px, 4vw, 24px);
+      box-shadow: var(--shadow);
+      transform: translateY(30px) scale(0.95);
+      transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      position: relative;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .modal-overlay.open .modal-container {
+      transform: translateY(0) scale(1);
+    }
+
+    /* KUSURSUZ ÇARPI */
+    .close-btn {
+      position: absolute;
+      top: 16px;
+      right: 16px;
+      background: rgba(23, 27, 54, 0.9);
+      color: #fff;
+      border: 1px solid rgba(255,255,255,0.2);
+      width: 36px;
+      height: 36px;
+      min-width: 0; 
+      padding: 0;   
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+      z-index: 10;
+      backdrop-filter: blur(4px);
+      transition: all 0.2s;
+    }
+
+    .close-btn:hover {
+      background: #2a3158;
+      transform: scale(1.1);
+    }
+
+    .movie-card {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 2 / 3; 
+      max-height: 55dvh; 
+      border-radius: 20px;
+      overflow: hidden;
+      background: #000;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      margin: 0 auto;
+    }
+
+    .poster {
+      position: absolute;
+      inset: 0;
+      background: var(--poster-gradient, transparent);
+      background-size: cover !important;
+      background-position: center !important;
+    }
+
+    .movie-details {
+      text-align: center;
+      padding: clamp(12px, 3vh, 20px) 10px 0;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .movie-title {
+      font-size: clamp(1.4rem, 5vw, 2rem);
+      line-height: 1.1;
+      letter-spacing: -0.02em;
+      margin: 0;
+      text-transform: uppercase;
+      color: #ffffff;
+      font-weight: 800;
+    }
+
+    .movie-year {
+      font-size: clamp(0.95rem, 3vw, 1.1rem);
+      color: var(--accent-2);
+      letter-spacing: 0.1em;
+      font-weight: 600;
+    }
+
+    .info-list {
+      display: flex;
+      justify-content: center;
+      gap: clamp(12px, 3vw, 20px);
+      margin-top: clamp(16px, 3vh, 24px);
+      color: var(--muted);
+      font-size: clamp(0.8rem, 2.5vw, 0.9rem);
+      flex-wrap: wrap;
+    }
+
+    .info-list span {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--accent-2);
+      box-shadow: 0 0 0 3px rgba(142, 197, 255, 0.12);
+    }
+
+    .fade-in {
+      animation: fadeIn 300ms ease forwards;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(6px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @media (max-width: 640px) {
+      .button-row { flex-direction: column; width: 100%; }
+      button { width: 100%; }
+    }
+  </style>
+</head>
+<body>
+
+  <main class="app">
+    <section class="hero">
+      <div class="eyebrow">Film Seçici</div>
+      <h1>Rastgele filmi seç, kelimeyi aç, özeti keşfet.</h1>
+
+
+      <div class="controls">
+        <div class="button-row">
+          <button class="primary" id="chooseMovieBtn">Kullanıcı Film Seç</button>
+          <button class="secondary" id="showMovieBtn">Filmi Göster</button>
+        </div>
+
+        <div class="status">
+          <div class="status-label">Seçilen Film Yılı</div>
+          <div class="status-value" id="selectedMovieText">Henüz bir seçim yapılmadı.</div>
+          
+          <div class="status-label" id="keywordLabel" hidden>Anahtar Kelime</div>
+          <div id="keywordBox" class="keyword" hidden>
+            <span id="keywordText"></span>
+            <small>Tıkla, Cümle Özeti Aç</small>
+          </div>
+          
+          <div id="summaryBox" class="status-value fade-in" hidden></div>
+        </div>
+      </div>
+
+
+    </section>
+  </main>
+
+  <div class="modal-overlay" id="movieModal">
+    <div class="modal-container">
+      
+      <button class="close-btn" id="closeModalBtn">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round">
+          <path d="M13 1L1 13M1 1L13 13"/>
+        </svg>
+      </button>
+      
+      <div class="movie-card">
+        <div class="poster" id="posterPanel"></div>
+      </div>
+
+      <div class="movie-details">
+        <h2 class="movie-title" id="posterTitle">-</h2>
+        <div class="movie-year" id="posterYear">-</div>
+      </div>
+    </div>
+  </div>
+
+  <script src="movies-data.js"></script>
+  <script>
+    const movies = Array.isArray(window.MOVIES) && window.MOVIES.length ? window.MOVIES : [];
+
+    const chooseMovieBtn = document.getElementById("chooseMovieBtn");
+    const showMovieBtn = document.getElementById("showMovieBtn");
+    const selectedMovieText = document.getElementById("selectedMovieText");
+    const keywordBox = document.getElementById("keywordBox");
+    const keywordLabel = document.getElementById("keywordLabel");
+    const keywordText = document.getElementById("keywordText");
+    const summaryBox = document.getElementById("summaryBox");
+    
+    const movieModal = document.getElementById("movieModal");
+    const closeModalBtn = document.getElementById("closeModalBtn");
+    const posterPanel = document.getElementById("posterPanel");
+    const posterTitle = document.getElementById("posterTitle");
+    const posterYear = document.getElementById("posterYear");
+
+    let selectedMovie = null;
+
+    function pickRandomMovie() {
+      if (!movies.length) {
+        selectedMovieText.textContent = "Excel verisi (movies-data.js) yüklenemedi.";
+        keywordLabel.hidden = true;
+        keywordBox.hidden = true;
+        summaryBox.hidden = true;
+        selectedMovie = null;
+        return;
+      }
+
+      const nextMovie = movies[Math.floor(Math.random() * movies.length)];
+      selectedMovie = nextMovie;
+
+      selectedMovieText.textContent = ` ${nextMovie.year}`;
+      
+      keywordText.textContent = nextMovie.keyword;
+      summaryBox.hidden = true;
+      summaryBox.textContent = "";
+      
+      keywordLabel.hidden = false;
+      keywordBox.hidden = false;
+      keywordBox.classList.remove("fade-in");
+      void keywordBox.offsetWidth; 
+      keywordBox.classList.add("fade-in");
+    }
+
+    function showSelectedMovie() {
+      if (!selectedMovie) {
+        alert("Afişi görmek için önce 'Kullanıcı Film Seç' butonuna basmalısın!");
+        return;
+      }
+
+      posterTitle.textContent = selectedMovie.title;
+      posterYear.textContent = selectedMovie.year || "-";
+      
+      if (selectedMovie.posterUrl) {
+        posterPanel.style.setProperty(
+          "--poster-gradient",
+          `url('${selectedMovie.posterUrl}')`
+        );
+      } else {
+        posterPanel.style.setProperty("--poster-gradient", "#111");
+      }
+      
+      movieModal.classList.add("open");
+    }
+
+    keywordBox.addEventListener("click", () => {
+      if (!selectedMovie) return;
+      summaryBox.textContent = selectedMovie.summary;
+      summaryBox.hidden = false;
+      summaryBox.classList.remove("fade-in");
+      void summaryBox.offsetWidth;
+      summaryBox.classList.add("fade-in");
+    });
+
+    chooseMovieBtn.addEventListener("click", pickRandomMovie);
+    showMovieBtn.addEventListener("click", showSelectedMovie);
+
+    closeModalBtn.addEventListener("click", () => {
+      movieModal.classList.remove("open");
+    });
+
+    movieModal.addEventListener("click", (e) => {
+      if (e.target === movieModal) {
+        movieModal.classList.remove("open");
+      }
+    });
+  </script>
+</body>
+</html>
