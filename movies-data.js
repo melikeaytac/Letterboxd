@@ -1,6 +1,14 @@
 window.MOVIES = [
   {
     "index": 1,
+    "title": "Pegasus",
+    "year": "2019",
+    "keyword": "yeni film",
+    "summary": "yeni eklendi",
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/3/3/8/8/503388-pegasus-2019-0-250-0-375-crop.jpg?v=ce491543"
+  },
+  {
+    "index": 2,
     "title": "Cruel & Unusual",
     "year": "2014",
     "keyword": "yeni film",
@@ -8,7 +16,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/8/1/8/4/3/181843-cruel-unusual-0-250-0-375-crop.jpg?v=472b0e27"
   },
   {
-    "index": 2,
+    "index": 3,
     "title": "Bad Biology",
     "year": "2008",
     "keyword": "Azgın",
@@ -16,7 +24,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/9/2/5/41925-bad-biology-0-250-0-375-crop.jpg?v=62bbbe23"
   },
   {
-    "index": 3,
+    "index": 4,
     "title": "The Baby of Mâcon",
     "year": "1993",
     "keyword": "Barok",
@@ -24,7 +32,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/8/9/8/3/48983-the-baby-of-macon-0-250-0-375-crop.jpg?v=0d1b5431"
   },
   {
-    "index": 4,
+    "index": 5,
     "title": "The Untold Story",
     "year": "1993",
     "keyword": "Hastalıklı",
@@ -32,7 +40,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/5/0/1/2/25012-the-untold-story-0-250-0-375-crop.jpg?v=178da031"
   },
   {
-    "index": 5,
+    "index": 6,
     "title": "The Cloverfield Paradox",
     "year": "2018",
     "keyword": "Karmaşa",
@@ -40,7 +48,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/1/9/4/0/9/319409-the-cloverfield-paradox-0-250-0-375-crop.jpg?v=b8b50ac9"
   },
   {
-    "index": 6,
+    "index": 7,
     "title": "Wrath of the Titans",
     "year": "2012",
     "keyword": "Devasa",
@@ -48,7 +56,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/8/9/7/7/8977-wrath-of-the-titans-0-250-0-375-crop.jpg?v=8e994b52"
   },
   {
-    "index": 7,
+    "index": 8,
     "title": "Burning",
     "year": "2018",
     "keyword": "Çarpık",
@@ -56,7 +64,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/2/2/0/3/5/422035-burning-2018-0-250-0-375-crop.jpg?v=b3f97a11"
   },
   {
-    "index": 8,
+    "index": 9,
     "title": "Cemetery Man",
     "year": "1994",
     "keyword": "Soğuk",
@@ -64,7 +72,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/8/3/0/9/38309-cemetery-man-0-250-0-375-crop.jpg?v=2a296617"
   },
   {
-    "index": 9,
+    "index": 10,
     "title": "Brawl in Cell Block 99",
     "year": "2017",
     "keyword": "Yabani",
@@ -72,7 +80,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/2/4/3/4/332434-brawl-in-cell-block-99-0-250-0-375-crop.jpg?v=f0578f80"
   },
   {
-    "index": 10,
+    "index": 11,
     "title": "Blood Tea and Red String",
     "year": "2006",
     "keyword": "Kanlı",
@@ -80,7 +88,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/5/1/7/9/25179-blood-tea-and-red-string-0-250-0-375-crop.jpg?v=8cf9e3a6"
   },
   {
-    "index": 11,
+    "index": 12,
     "title": "The Innocents",
     "year": "2021",
     "keyword": "Soğuk",
@@ -88,20 +96,12 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/8/5/9/5/7/585957-the-innocents-2021-0-250-0-375-crop.jpg?v=a4c52ccd"
   },
   {
-    "index": 12,
+    "index": 13,
     "title": "Benny's Video",
     "year": "1992",
     "keyword": "Sarsak",
     "summary": "Sinema salonunda koltuğu ergonomik olmaktan çıkaran cinsten bir deneyim vaat ediyor.",
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/6/2/5/50625-bennys-video-0-250-0-375-crop.jpg?v=e88e4dd2"
-  },
-  {
-    "index": 13,
-    "title": "The Experiment",
-    "year": "2001",
-    "keyword": "Kabusumsu",
-    "summary": "Mantığın ayakkabılarını çıkarıp kapıda bıraktığı ama havanın hâlâ ağır olduğu bir iş.",
-    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/5/4/5/51545-the-experiment-0-250-0-375-crop.jpg?v=dc607c3a"
   },
   {
     "index": 14,
