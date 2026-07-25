@@ -1128,12 +1128,12 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/8/4/6/8/7/4/846874-wecrashed-0-250-0-375-crop.jpg?v=953a0c79"
   },
   {
-    "index": 142,
+    "index": 428,
     "title": "Monster",
-    "year": "2023",
+    "year": "2003",
     "keyword": "yeni film",
     "summary": "yeni eklendi",
-    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/9/4/7/0/3/0/947030-monster-2023-0-250-0-375-crop.jpg?v=fe6fdd11"
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/6/0/6/51606-monster-0-250-0-375-crop.jpg?v=d0cb1abf"
   },
   {
     "index": 143,
@@ -1744,12 +1744,12 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/7/8/6/50786-elephant-2003-0-250-0-375-crop.jpg?v=fea177d7"
   },
   {
-    "index": 219,
+    "index": 545,
     "title": "The Gambler",
-    "year": "1974",
+    "year": "2014",
     "keyword": "yeni film",
     "summary": "yeni eklendi",
-    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/0/3/9/9/20399-the-gambler-0-250-0-375-crop.jpg?v=00c2d953"
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/0/9/8/4/7/209847-the-gambler-2014-0-250-0-375-crop.jpg?v=46253f00"
   },
   {
     "index": 220,
@@ -2088,12 +2088,12 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/5/9/1/2/9/259129-club-lingerie-0-250-0-375-crop.jpg?v=1868eb20"
   },
   {
-    "index": 262,
+    "index": 263,
     "title": "The Smashing Machine",
-    "year": "2025",
+    "year": "2002",
     "keyword": "yeni film",
     "summary": "yeni eklendi",
-    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/6/8/0/7/3/9/680739-the-smashing-machine-2025-0-250-0-375-crop.jpg?v=65d50e53"
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/8/2/7/2/28272-the-smashing-machine-0-250-0-375-crop.jpg?v=b6abc402"
   },
   {
     "index": 263,
@@ -4296,12 +4296,12 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/1/2/2/0/5/312205-moonlight-2016-0-250-0-375-crop.jpg?v=c6907c8d"
   },
   {
-    "index": 538,
+    "index": 584,
     "title": "Napoleon",
-    "year": "1927",
+    "year": "2023",
     "keyword": "yeni film",
     "summary": "yeni eklendi",
-    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/2/5/4/7/22547-napoleon-0-250-0-375-crop.jpg?v=2e8b3283"
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/6/7/4/1/3/7/674137-napoleon-2023-0-250-0-375-crop.jpg?v=218d7828"
   },
   {
     "index": 539,
