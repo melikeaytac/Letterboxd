@@ -309,7 +309,7 @@ window.MOVIES = [
     "year": "2010",
     "keyword": "Kasvetli",
     "summary": "Tür sinemasının 'bunu da deneyelim' dediği yerde utanmadan bekliyor.",
-    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/1/2/3/9/21239-dog-pound-0-250-0-375-crop.jpg?v=0122a815"
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/1/2/3/9/21239-dog-pound-0-250-0-375-crop.jpg?v=0125b323"
   },
   {
     "index": 40,
