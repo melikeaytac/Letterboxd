@@ -125,7 +125,7 @@ window.MOVIES = [
     "year": "2026",
     "keyword": "yeni film",
     "summary": "yeni eklendi",
-    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/9/4/3/4/2/2/943422-the-fox-2025-0-250-0-375-crop.jpg?v=fa394784"
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/9/4/3/4/2/2/943422-the-fox-2025-0-250-0-375-crop.jpg?v=8d6d6e7b"
   },
   {
     "index": 17,
