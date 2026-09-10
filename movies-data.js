@@ -1429,7 +1429,7 @@ window.MOVIES = [
     "year": "1959",
     "keyword": "yeni film",
     "summary": "yeni eklendi",
-    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/0/4/51904-the-400-blows-0-250-0-375-crop.jpg?v=6c772c53"
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/0/4/51904-the-400-blows-0-250-0-375-crop.jpg?v=d1150283"
   },
   {
     "index": 180,
