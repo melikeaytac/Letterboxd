@@ -1,19 +1,19 @@
 window.MOVIES = [
   {
     "index": 1,
+    "title": "Big George Foreman",
+    "year": "2023",
+    "keyword": "yeni film",
+    "summary": "yeni eklendi",
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/7/8/9/7/5/2/789752-big-george-foreman-0-250-0-375-crop.jpg?v=734bfd7d"
+  },
+  {
+    "index": 2,
     "title": "Atonement",
     "year": "2007",
     "keyword": "yeni film",
     "summary": "yeni eklendi",
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/3/9/1/49391-atonement-0-250-0-375-crop.jpg?v=a3196303"
-  },
-  {
-    "index": 2,
-    "title": "Forgetting Sarah Marshall",
-    "year": "2008",
-    "keyword": "yeni film",
-    "summary": "yeni eklendi",
-    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/7/6/3/46763-forgetting-sarah-marshall-0-250-0-375-crop.jpg?v=cac033e5"
   },
   {
     "index": 3,
