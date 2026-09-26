@@ -1264,7 +1264,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/8/4/6/8/7/4/846874-wecrashed-0-250-0-375-crop.jpg?v=953a0c79"
   },
   {
-    "index": 444,
+    "index": 443,
     "title": "Monster",
     "year": "2003",
     "keyword": "yeni film",
@@ -1880,7 +1880,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/7/8/6/50786-elephant-2003-0-250-0-375-crop.jpg?v=fea177d7"
   },
   {
-    "index": 559,
+    "index": 558,
     "title": "The Gambler",
     "year": "2014",
     "keyword": "yeni film",
@@ -3257,14 +3257,6 @@ window.MOVIES = [
   },
   {
     "index": 408,
-    "title": "28 Days Later",
-    "year": "2002",
-    "keyword": "yeni film",
-    "summary": "yeni eklendi",
-    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/8/1/51881-28-days-later-0-250-0-375-crop.jpg?v=b851d3a3"
-  },
-  {
-    "index": 409,
     "title": "Triangle",
     "year": "2009",
     "keyword": "yeni film",
@@ -3272,7 +3264,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/5/3/0/7/35307-triangle-2009-0-250-0-375-crop.jpg?v=f7181c88"
   },
   {
-    "index": 410,
+    "index": 409,
     "title": "Angel Heart",
     "year": "1987",
     "keyword": "yeni film",
@@ -3280,7 +3272,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/4/8/9/51489-angel-heart-0-250-0-375-crop.jpg?v=730592ba"
   },
   {
-    "index": 411,
+    "index": 410,
     "title": "The Bride!",
     "year": "2026",
     "keyword": "yeni film",
@@ -3288,7 +3280,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/4/5/7/6/7/1045767-the-bride-2026-0-250-0-375-crop.jpg?v=abf10492"
   },
   {
-    "index": 412,
+    "index": 411,
     "title": "The Boy, the Mole, the Fox and the Horse",
     "year": "2022",
     "keyword": "yeni film",
@@ -3296,7 +3288,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/8/9/6/3/7/8/896378-the-boy-the-mole-the-fox-and-the-horse-0-250-0-375-crop.jpg?v=ff132f5d"
   },
   {
-    "index": 413,
+    "index": 412,
     "title": "The Man from U.N.C.L.E.",
     "year": "2015",
     "keyword": "yeni film",
@@ -3304,7 +3296,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/4/5/8/2/2/145822-the-man-from-uncle-0-250-0-375-crop.jpg?v=ab454d87"
   },
   {
-    "index": 414,
+    "index": 413,
     "title": "They Live",
     "year": "1988",
     "keyword": "yeni film",
@@ -3312,7 +3304,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/7/9/8/47798-they-live-0-250-0-375-crop.jpg?v=ec1ea59b"
   },
   {
-    "index": 415,
+    "index": 414,
     "title": "The Plague Dogs",
     "year": "1982",
     "keyword": "yeni film",
@@ -3320,7 +3312,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/2/3/0/9/32309-the-plague-dogs-0-250-0-375-crop.jpg?v=5fcc49bd"
   },
   {
-    "index": 416,
+    "index": 415,
     "title": "Time",
     "year": "2021",
     "keyword": "yeni film",
@@ -3328,7 +3320,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/7/5/4/7/6/8/754768-time-2021-2-0-250-0-375-crop.jpg?v=c7d1b07e"
   },
   {
-    "index": 417,
+    "index": 416,
     "title": "The Hitman's Bodyguard",
     "year": "2017",
     "keyword": "yeni film",
@@ -3336,7 +3328,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/2/4/5/7/5/324575-the-hitmans-bodyguard-0-250-0-375-crop.jpg?v=871479a5"
   },
   {
-    "index": 418,
+    "index": 417,
     "title": "Fast Forever",
     "year": "2028",
     "keyword": "yeni film",
@@ -3344,7 +3336,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/6/7/6/2/9/6/676296-fast-forever-0-250-0-375-crop.jpg?v=c9207c80"
   },
   {
-    "index": 419,
+    "index": 418,
     "title": "Tucker: The Man and His Dream",
     "year": "1988",
     "keyword": "yeni film",
@@ -3352,7 +3344,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/8/5/5/33855-tucker-the-man-and-his-dream-0-250-0-375-crop.jpg?v=2970ef50"
   },
   {
-    "index": 420,
+    "index": 419,
     "title": "Remember the Titans",
     "year": "2000",
     "keyword": "yeni film",
@@ -3360,7 +3352,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/0/3/7/46037-remember-the-titans-0-250-0-375-crop.jpg?v=c895170f"
   },
   {
-    "index": 421,
+    "index": 420,
     "title": "Straight Outta Compton",
     "year": "2015",
     "keyword": "yeni film",
@@ -3368,7 +3360,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/0/1/3/4/0/201340-straight-outta-compton-0-250-0-375-crop.jpg?v=20237cb2"
   },
   {
-    "index": 422,
+    "index": 421,
     "title": "Twilight of the Warriors: Walled In",
     "year": "2024",
     "keyword": "yeni film",
@@ -3376,7 +3368,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/8/2/9/2/8/2/829282-twilight-of-the-warriors-walled-in-0-250-0-375-crop.jpg?v=7eeda31b"
   },
   {
-    "index": 423,
+    "index": 422,
     "title": "Brazil",
     "year": "1985",
     "keyword": "yeni film",
@@ -3384,7 +3376,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-250-0-375-crop.jpg?v=1cbcafb2"
   },
   {
-    "index": 424,
+    "index": 423,
     "title": "Exhibit A",
     "year": "2007",
     "keyword": "yeni film",
@@ -3392,7 +3384,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/2/5/7/16257-exhibit-a-0-250-0-375-crop.jpg?v=d6207a0d"
   },
   {
-    "index": 425,
+    "index": 424,
     "title": "Fear",
     "year": "1996",
     "keyword": "yeni film",
@@ -3400,7 +3392,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/1/2/9/46129-fear-1996-0-250-0-375-crop.jpg?v=ca3014e3"
   },
   {
-    "index": 426,
+    "index": 425,
     "title": "Sing Sing",
     "year": "2023",
     "keyword": "yeni film",
@@ -3408,7 +3400,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/4/1/9/5/7/1041957-sing-sing-2023-0-250-0-375-crop.jpg?v=1dcbde5e"
   },
   {
-    "index": 427,
+    "index": 426,
     "title": "My Left Foot: The Story of Christy Brown",
     "year": "1989",
     "keyword": "yeni film",
@@ -3416,7 +3408,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/4/8/8/46488-my-left-foot-the-story-of-christy-brown-0-250-0-375-crop.jpg?v=651443ba"
   },
   {
-    "index": 428,
+    "index": 427,
     "title": "Adaptation.",
     "year": "2002",
     "keyword": "yeni film",
@@ -3424,7 +3416,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/1/1/2/50112-adaptation-0-250-0-375-crop.jpg?v=a7e7821d"
   },
   {
-    "index": 429,
+    "index": 428,
     "title": "Rumble Fish",
     "year": "1983",
     "keyword": "yeni film",
@@ -3432,7 +3424,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/2/4/51824-rumble-fish-0-250-0-375-crop.jpg?v=ada74c2a"
   },
   {
-    "index": 430,
+    "index": 429,
     "title": "A Few Good Men",
     "year": "1992",
     "keyword": "yeni film",
@@ -3440,7 +3432,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/2/7/1/51271-a-few-good-men-0-250-0-375-crop.jpg?v=2be36848"
   },
   {
-    "index": 431,
+    "index": 430,
     "title": "The Void",
     "year": "2016",
     "keyword": "yeni film",
@@ -3448,7 +3440,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/1/3/3/1/0/313310-the-void-2016-0-250-0-375-crop.jpg?v=5df116a2"
   },
   {
-    "index": 432,
+    "index": 431,
     "title": "The Mean One",
     "year": "2022",
     "keyword": "yeni film",
@@ -3456,7 +3448,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/9/3/1/2/8/6/931286-the-mean-one-0-250-0-375-crop.jpg?v=bd762f37"
   },
   {
-    "index": 433,
+    "index": 432,
     "title": "Perfect Days",
     "year": "2023",
     "keyword": "yeni film",
@@ -3464,7 +3456,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/8/7/9/2/2/9/879229-perfect-days-2023-0-250-0-375-crop.jpg?v=239bbd61"
   },
   {
-    "index": 434,
+    "index": 433,
     "title": "How to Make Millions Before Grandma Dies",
     "year": "2024",
     "keyword": "yeni film",
@@ -3472,7 +3464,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/9/9/5/2/7/4/995274-how-to-make-millions-before-grandma-dies-0-250-0-375-crop.jpg?v=cadac6c9"
   },
   {
-    "index": 435,
+    "index": 434,
     "title": "Kids",
     "year": "1995",
     "keyword": "yeni film",
@@ -3480,7 +3472,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/2/5/0/47250-kids-0-250-0-375-crop.jpg?v=586b7a13"
   },
   {
-    "index": 436,
+    "index": 435,
     "title": "Seven Pounds",
     "year": "2008",
     "keyword": "yeni film",
@@ -3488,7 +3480,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/4/1/2/45412-seven-pounds-0-250-0-375-crop.jpg?v=b97e534e"
   },
   {
-    "index": 437,
+    "index": 436,
     "title": "Dìdi (弟弟)",
     "year": "2024",
     "keyword": "yeni film",
@@ -3496,7 +3488,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/4/5/1/1/5/1045115-didi-2024-0-250-0-375-crop.jpg?v=2f1e5e62"
   },
   {
-    "index": 438,
+    "index": 437,
     "title": "Under the Skin",
     "year": "2013",
     "keyword": "yeni film",
@@ -3504,7 +3496,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/8/0/1/9/8/80198-under-the-skin-2013-0-250-0-375-crop.jpg?v=592b2fee"
   },
   {
-    "index": 439,
+    "index": 438,
     "title": "Tinker Tailor Soldier Spy",
     "year": "2011",
     "keyword": "yeni film",
@@ -3512,7 +3504,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/0/9/5/16095-tinker-tailor-soldier-spy-0-250-0-375-crop.jpg?v=917286ff"
   },
   {
-    "index": 440,
+    "index": 439,
     "title": "Porco Rosso",
     "year": "1992",
     "keyword": "yeni film",
@@ -3520,7 +3512,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/1/3/0/45130-porco-rosso-0-250-0-375-crop.jpg?v=66a29b51"
   },
   {
-    "index": 441,
+    "index": 440,
     "title": "The Smile Man",
     "year": "2013",
     "keyword": "yeni film",
@@ -3528,7 +3520,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/4/9/7/2/2/149722-the-smile-man-0-250-0-375-crop.jpg?v=5dda348f"
   },
   {
-    "index": 442,
+    "index": 441,
     "title": "The Hunchback of Notre Dame",
     "year": "1996",
     "keyword": "yeni film",
@@ -3536,7 +3528,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/1/2/7/46127-the-hunchback-of-notre-dame-1996-0-250-0-375-crop.jpg?v=a0d0623b"
   },
   {
-    "index": 443,
+    "index": 442,
     "title": "The Order",
     "year": "2024",
     "keyword": "yeni film",
@@ -3544,7 +3536,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/9/7/5/3/9/3/975393-the-order-2024-0-250-0-375-crop.jpg?v=e1c39df0"
   },
   {
-    "index": 444,
+    "index": 443,
     "title": "Monster",
     "year": "2003",
     "keyword": "yeni film",
@@ -3552,7 +3544,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/6/0/6/51606-monster-0-250-0-375-crop.jpg?v=d0cb1abf"
   },
   {
-    "index": 445,
+    "index": 444,
     "title": "Find Me Guilty",
     "year": "2006",
     "keyword": "yeni film",
@@ -3560,7 +3552,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/6/8/7/46687-find-me-guilty-0-250-0-375-crop.jpg?v=e979b1a3"
   },
   {
-    "index": 446,
+    "index": 445,
     "title": "The Ghost Writer",
     "year": "2010",
     "keyword": "yeni film",
@@ -3568,7 +3560,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/3/0/3/45303-the-ghost-writer-0-250-0-375-crop.jpg?v=49f0d3a0"
   },
   {
-    "index": 447,
+    "index": 446,
     "title": "M",
     "year": "1931",
     "keyword": "yeni film",
@@ -3576,7 +3568,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/3/2/0/51320-m-0-250-0-375-crop.jpg?v=ae9b7dd1"
   },
   {
-    "index": 448,
+    "index": 447,
     "title": "The Brutalist",
     "year": "2024",
     "keyword": "yeni film",
@@ -3584,7 +3576,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/8/4/2/8/478428-the-brutalist-0-250-0-375-crop.jpg?v=deaf6908"
   },
   {
-    "index": 449,
+    "index": 448,
     "title": "Suicide Club",
     "year": "2001",
     "keyword": "yeni film",
@@ -3592,7 +3584,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/3/3/6/44336-suicide-club-0-250-0-375-crop.jpg?v=a3083f2f"
   },
   {
-    "index": 450,
+    "index": 449,
     "title": "Antiporno",
     "year": "2016",
     "keyword": "yeni film",
@@ -3600,7 +3592,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/8/7/7/2/348772-antiporno-0-250-0-375-crop.jpg?v=397d2208"
   },
   {
-    "index": 451,
+    "index": 450,
     "title": "Freaks",
     "year": "1932",
     "keyword": "yeni film",
@@ -3608,7 +3600,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/1/5/51915-freaks-0-250-0-375-crop.jpg?v=4cbb15ee"
   },
   {
-    "index": 452,
+    "index": 451,
     "title": "Red Riding: The Year of Our Lord 1980",
     "year": "2009",
     "keyword": "yeni film",
@@ -3616,7 +3608,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/1/7/3/6/7/217367-red-riding-the-year-of-our-lord-1980-0-250-0-375-crop.jpg?v=2a19787d"
   },
   {
-    "index": 453,
+    "index": 452,
     "title": "Feels Good Man",
     "year": "2020",
     "keyword": "yeni film",
@@ -3624,7 +3616,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/7/9/0/1/1/579011-feels-good-man-0-250-0-375-crop.jpg?v=6f5793dd"
   },
   {
-    "index": 454,
+    "index": 453,
     "title": "Seven Psychopaths",
     "year": "2012",
     "keyword": "yeni film",
@@ -3632,7 +3624,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/7/3/3/5/8/73358-seven-psychopaths-0-250-0-375-crop.jpg?v=4b97a0a5"
   },
   {
-    "index": 455,
+    "index": 454,
     "title": "The Conversation",
     "year": "1974",
     "keyword": "yeni film",
@@ -3640,7 +3632,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/5/2/9/51529-the-conversation-0-250-0-375-crop.jpg?v=d5aa8984"
   },
   {
-    "index": 456,
+    "index": 455,
     "title": "La Grande Bouffe",
     "year": "1973",
     "keyword": "yeni film",
@@ -3648,7 +3640,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/5/4/6/46546-la-grande-bouffe-0-250-0-375-crop.jpg?v=2fad82d0"
   },
   {
-    "index": 457,
+    "index": 456,
     "title": "Che: Part Two",
     "year": "2008",
     "keyword": "yeni film",
@@ -3656,7 +3648,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/5/4/4/47544-che-part-two-0-250-0-375-crop.jpg?v=00e69d43"
   },
   {
-    "index": 458,
+    "index": 457,
     "title": "Che: Part One",
     "year": "2008",
     "keyword": "yeni film",
@@ -3664,7 +3656,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/5/4/3/47543-che-part-one-0-250-0-375-crop.jpg?v=073628b1"
   },
   {
-    "index": 459,
+    "index": 458,
     "title": "The Autopsy of Jane Doe",
     "year": "2016",
     "keyword": "yeni film",
@@ -3672,7 +3664,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/1/5/3/9/331539-the-autopsy-of-jane-doe-0-250-0-375-crop.jpg?v=b9ba899a"
   },
   {
-    "index": 460,
+    "index": 459,
     "title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
     "year": "2003",
     "keyword": "yeni film",
@@ -3680,7 +3672,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/6/5/4/45654-interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem-0-250-0-375-crop.jpg?v=0857bb4d"
   },
   {
-    "index": 461,
+    "index": 460,
     "title": "Finch",
     "year": "2021",
     "keyword": "yeni film",
@@ -3688,7 +3680,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/1/9/0/2/451902-finch-0-250-0-375-crop.jpg?v=d8e6b8b9"
   },
   {
-    "index": 462,
+    "index": 461,
     "title": "The Vanishing",
     "year": "1988",
     "keyword": "yeni film",
@@ -3696,7 +3688,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/6/2/8/47628-the-vanishing-0-250-0-375-crop.jpg?v=5c9968d7"
   },
   {
-    "index": 463,
+    "index": 462,
     "title": "Point Break",
     "year": "1991",
     "keyword": "yeni film",
@@ -3704,7 +3696,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/5/7/51157-point-break-0-250-0-375-crop.jpg?v=80b31f54"
   },
   {
-    "index": 464,
+    "index": 463,
     "title": "Heavy Metal",
     "year": "1981",
     "keyword": "yeni film",
@@ -3712,7 +3704,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/9/7/3/44973-heavy-metal-0-250-0-375-crop.jpg?v=c3b6b953"
   },
   {
-    "index": 465,
+    "index": 464,
     "title": "Lion",
     "year": "2016",
     "keyword": "yeni film",
@@ -3720,7 +3712,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/6/3/2/2/2/263222-lion-0-250-0-375-crop.jpg?v=40cc094c"
   },
   {
-    "index": 466,
+    "index": 465,
     "title": "Vampire Hunter D: Bloodlust",
     "year": "2000",
     "keyword": "yeni film",
@@ -3728,7 +3720,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/9/2/0/41920-vampire-hunter-d-bloodlust-0-250-0-375-crop.jpg?v=790d43f6"
   },
   {
-    "index": 467,
+    "index": 466,
     "title": "Holy Motors",
     "year": "2012",
     "keyword": "yeni film",
@@ -3736,7 +3728,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/8/3/8/6/3/83863-holy-motors-0-250-0-375-crop.jpg?v=31a120b1"
   },
   {
-    "index": 468,
+    "index": 467,
     "title": "Watership Down",
     "year": "1978",
     "keyword": "yeni film",
@@ -3744,7 +3736,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/9/6/4/44964-watership-down-0-250-0-375-crop.jpg?v=183ff1e5"
   },
   {
-    "index": 469,
+    "index": 468,
     "title": "Richard Jewell",
     "year": "2019",
     "keyword": "yeni film",
@@ -3752,7 +3744,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/1/8/2/5/4/218254-richard-jewell-0-250-0-375-crop.jpg?v=404e7b5f"
   },
   {
-    "index": 470,
+    "index": 469,
     "title": "Blind Chance",
     "year": "1987",
     "keyword": "yeni film",
@@ -3760,7 +3752,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/2/3/51923-blind-chance-0-250-0-375-crop.jpg?v=7d7e3d6f"
   },
   {
-    "index": 471,
+    "index": 470,
     "title": "Trick 'r Treat",
     "year": "2007",
     "keyword": "yeni film",
@@ -3768,7 +3760,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/7/4/8/3/37483-trick-r-treat-0-250-0-375-crop.jpg?v=4c2f5689"
   },
   {
-    "index": 472,
+    "index": 471,
     "title": "Onibaba",
     "year": "1964",
     "keyword": "yeni film",
@@ -3776,7 +3768,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/6/0/1/49601-onibaba-0-250-0-375-crop.jpg?v=0c117b57"
   },
   {
-    "index": 473,
+    "index": 472,
     "title": "Nosferatu",
     "year": "2024",
     "keyword": "yeni film",
@@ -3784,7 +3776,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/5/9/5/0/5/359505-nosferatu-2024-0-250-0-375-crop.jpg?v=10fb07af"
   },
   {
-    "index": 474,
+    "index": 473,
     "title": "Afro Samurai",
     "year": "2007",
     "keyword": "yeni film",
@@ -3792,7 +3784,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/8/8/7/3887-afro-samurai-0-250-0-375-crop.jpg?v=a492122e"
   },
   {
-    "index": 475,
+    "index": 474,
     "title": "TRIGUN",
     "year": "1998",
     "keyword": "yeni film",
@@ -3800,7 +3792,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/6/0/8/5/2/1/608521-trigun-0-250-0-375-crop.jpg?v=a325df82"
   },
   {
-    "index": 476,
+    "index": 475,
     "title": "Killer Klowns from Outer Space",
     "year": "1988",
     "keyword": "yeni film",
@@ -3808,7 +3800,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/6/7/2/41672-killer-klowns-from-outer-space-0-250-0-375-crop.jpg?v=f56b7009"
   },
   {
-    "index": 477,
+    "index": 476,
     "title": "Army of Darkness",
     "year": "1992",
     "keyword": "yeni film",
@@ -3816,7 +3808,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/3/8/6/51386-army-of-darkness-0-250-0-375-crop.jpg?v=cfd14949"
   },
   {
-    "index": 478,
+    "index": 477,
     "title": "Blue Ruin",
     "year": "2013",
     "keyword": "yeni film",
@@ -3824,7 +3816,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/3/5/7/4/7/135747-blue-ruin-0-250-0-375-crop.jpg?v=fac5a1b1"
   },
   {
-    "index": 479,
+    "index": 478,
     "title": "Possession",
     "year": "1981",
     "keyword": "yeni film",
@@ -3832,7 +3824,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/8/3/7/4/38374-possession-0-250-0-375-crop.jpg?v=878e2bea"
   },
   {
-    "index": 480,
+    "index": 479,
     "title": "31",
     "year": "2016",
     "keyword": "yeni film",
@@ -3840,7 +3832,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/0/9/8/7/0/209870-31-2016-0-250-0-375-crop.jpg?v=1cfe5bf4"
   },
   {
-    "index": 481,
+    "index": 480,
     "title": "Bad Boy Bubby",
     "year": "1993",
     "keyword": "yeni film",
@@ -3848,7 +3840,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/3/2/2/43322-bad-boy-bubby-0-250-0-375-crop.jpg?v=e16a8fad"
   },
   {
-    "index": 482,
+    "index": 481,
     "title": "Memoir of a Snail",
     "year": "2024",
     "keyword": "yeni film",
@@ -3856,7 +3848,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/9/5/9/8/2/9/959829-memoir-of-a-snail-0-250-0-375-crop.jpg?v=70b4128f"
   },
   {
-    "index": 483,
+    "index": 482,
     "title": "Akira",
     "year": "1988",
     "keyword": "yeni film",
@@ -3864,7 +3856,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/0/2/51902-akira-0-250-0-375-crop.jpg?v=b7dbc06d"
   },
   {
-    "index": 484,
+    "index": 483,
     "title": "Le Trou",
     "year": "1960",
     "keyword": "yeni film",
@@ -3872,7 +3864,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/0/1/2/33012-le-trou-0-250-0-375-crop.jpg?v=f9fd25bb"
   },
   {
-    "index": 485,
+    "index": 484,
     "title": "Cholera Street",
     "year": "1997",
     "keyword": "yeni film",
@@ -3880,7 +3872,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/9/1/0/9/29109-cholera-street-0-250-0-375-crop.jpg?v=fcdda31e"
   },
   {
-    "index": 486,
+    "index": 485,
     "title": "Lords of Chaos",
     "year": "2018",
     "keyword": "yeni film",
@@ -3888,7 +3880,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/5/9/5/5/9/359559-lords-of-chaos-0-250-0-375-crop.jpg?v=c5e8b74f"
   },
   {
-    "index": 487,
+    "index": 486,
     "title": "The Perks of Being a Wallflower",
     "year": "2012",
     "keyword": "yeni film",
@@ -3896,7 +3888,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/7/1/3/3/8/71338-the-perks-of-being-a-wallflower-0-250-0-375-crop.jpg?v=d2c4c804"
   },
   {
-    "index": 488,
+    "index": 487,
     "title": "No Dogs or Italians Allowed",
     "year": "2022",
     "keyword": "yeni film",
@@ -3904,7 +3896,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/6/3/8/3/2/4/638324-no-dogs-or-italians-allowed-0-250-0-375-crop.jpg?v=0295a5dd"
   },
   {
-    "index": 489,
+    "index": 488,
     "title": "Fences",
     "year": "2016",
     "keyword": "yeni film",
@@ -3912,7 +3904,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/2/7/9/3/4/327934-fences-2016-0-250-0-375-crop.jpg?v=2490a4b0"
   },
   {
-    "index": 490,
+    "index": 489,
     "title": "Honey Boy",
     "year": "2019",
     "keyword": "yeni film",
@@ -3920,7 +3912,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/1/8/7/0/441870-honey-boy-0-250-0-375-crop.jpg?v=fa1dd945"
   },
   {
-    "index": 491,
+    "index": 490,
     "title": "Dark Waters",
     "year": "2019",
     "keyword": "yeni film",
@@ -3928,7 +3920,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/8/0/8/7/5/480875-dark-waters-2019-0-250-0-375-crop.jpg?v=726baeed"
   },
   {
-    "index": 492,
+    "index": 491,
     "title": "Logan Lucky",
     "year": "2017",
     "keyword": "yeni film",
@@ -3936,7 +3928,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/3/4/4/5/333445-logan-lucky-0-250-0-375-crop.jpg?v=0c206015"
   },
   {
-    "index": 493,
+    "index": 492,
     "title": "Playground",
     "year": "2016",
     "keyword": "yeni film",
@@ -3944,7 +3936,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/7/8/2/4/347824-playground-2016-0-250-0-375-crop.jpg?v=0bb42b4d"
   },
   {
-    "index": 494,
+    "index": 493,
     "title": "A Bittersweet Life",
     "year": "2005",
     "keyword": "yeni film",
@@ -3952,7 +3944,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/3/9/0/45390-a-bittersweet-life-0-250-0-375-crop.jpg?v=8a52c196"
   },
   {
-    "index": 495,
+    "index": 494,
     "title": "The Roundup 5",
     "year": "Bilinmiyor",
     "keyword": "yeni film",
@@ -3960,7 +3952,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/3/3/7/5/2/1133752-the-roundup-5-0-250-0-375-crop.jpg?v=2d32d000"
   },
   {
-    "index": 496,
+    "index": 495,
     "title": "Ms .45",
     "year": "1981",
     "keyword": "yeni film",
@@ -3968,7 +3960,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/8/0/3/5/38035-ms-45-0-250-0-375-crop.jpg?v=71cd86d0"
   },
   {
-    "index": 497,
+    "index": 496,
     "title": "Going in Style",
     "year": "2017",
     "keyword": "yeni film",
@@ -3976,7 +3968,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/8/3/2/0/9/283209-going-in-style-2017-0-250-0-375-crop.jpg?v=d2b922bf"
   },
   {
-    "index": 498,
+    "index": 497,
     "title": "Pawn Sacrifice",
     "year": "2014",
     "keyword": "yeni film",
@@ -3984,7 +3976,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/7/1/9/6/1/171961-pawn-sacrifice-0-250-0-375-crop.jpg?v=29192c6d"
   },
   {
-    "index": 499,
+    "index": 498,
     "title": "The Substance",
     "year": "2024",
     "keyword": "yeni film",
@@ -3992,7 +3984,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/8/3/8/1/4/0/838140-the-substance-0-250-0-375-crop.jpg?v=f269611b"
   },
   {
-    "index": 500,
+    "index": 499,
     "title": "The House",
     "year": "2022",
     "keyword": "yeni film",
@@ -4000,7 +3992,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/8/3/2/4/4/4/832444-the-house-2022-1-0-250-0-375-crop.jpg?v=0ee30b91"
   },
   {
-    "index": 501,
+    "index": 500,
     "title": "Presumed Innocent",
     "year": "1990",
     "keyword": "yeni film",
@@ -4008,7 +4000,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/6/1/3/45613-presumed-innocent-0-250-0-375-crop.jpg?v=43c8849a"
   },
   {
-    "index": 502,
+    "index": 501,
     "title": "Paranoia Agent",
     "year": "2004",
     "keyword": "yeni film",
@@ -4016,7 +4008,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/2/0/3/0/4/520304-paranoia-agent-0-250-0-375-crop.jpg?v=7440c9b9"
   },
   {
-    "index": 503,
+    "index": 502,
     "title": "Love",
     "year": "2015",
     "keyword": "yeni film",
@@ -4024,7 +4016,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/1/8/8/9/5/218895-love-2015-0-250-0-375-crop.jpg?v=719962f0"
   },
   {
-    "index": 504,
+    "index": 503,
     "title": "Shōgun",
     "year": "2024",
     "keyword": "yeni film",
@@ -4032,7 +4024,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/2/4/8/7/2/1124872-shogun-2024-0-250-0-375-crop.jpg?v=8d5deb1a"
   },
   {
-    "index": 505,
+    "index": 504,
     "title": "Watchmen",
     "year": "2019",
     "keyword": "yeni film",
@@ -4040,7 +4032,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/8/0/0/9/2/580092-watchmen-2019-0-250-0-375-crop.jpg?v=0a9144be"
   },
   {
-    "index": 506,
+    "index": 505,
     "title": "Batman: Assault on Arkham",
     "year": "2014",
     "keyword": "yeni film",
@@ -4048,7 +4040,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/9/9/5/3/169953-batman-assault-on-arkham-0-250-0-375-crop.jpg?v=1372cf29"
   },
   {
-    "index": 507,
+    "index": 506,
     "title": "Injustice",
     "year": "2021",
     "keyword": "yeni film",
@@ -4056,7 +4048,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/7/4/7/2/0/5/747205-injustice-2021-0-250-0-375-crop.jpg?v=6134929c"
   },
   {
-    "index": 508,
+    "index": 507,
     "title": "The Wild Robot",
     "year": "2024",
     "keyword": "yeni film",
@@ -4064,7 +4056,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/7/1/1/9/6/1071196-the-wild-robot-0-250-0-375-crop.jpg?v=61460a60"
   },
   {
-    "index": 509,
+    "index": 508,
     "title": "Turtles Forever",
     "year": "2009",
     "keyword": "yeni film",
@@ -4072,7 +4064,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/9/4/2/5/29425-turtles-forever-0-250-0-375-crop.jpg?v=88fe519e"
   },
   {
-    "index": 510,
+    "index": 509,
     "title": "The Prince of Egypt",
     "year": "1998",
     "keyword": "yeni film",
@@ -4080,7 +4072,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/7/7/8/46778-the-prince-of-egypt-0-250-0-375-crop.jpg?v=c14bab63"
   },
   {
-    "index": 511,
+    "index": 510,
     "title": "Megalopolis",
     "year": "2024",
     "keyword": "yeni film",
@@ -4088,7 +4080,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/2/0/3/2/8/520328-megalopolis-2024-0-250-0-375-crop.jpg?v=6db7fb28"
   },
   {
-    "index": 512,
+    "index": 511,
     "title": "Manchester by the Sea",
     "year": "2016",
     "keyword": "yeni film",
@@ -4096,7 +4088,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/6/3/2/2/1/263221-manchester-by-the-sea-0-250-0-375-crop.jpg?v=0230f8bb"
   },
   {
-    "index": 513,
+    "index": 512,
     "title": "The Promised Land",
     "year": "2023",
     "keyword": "yeni film",
@@ -4104,7 +4096,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/8/8/2/3/0/7/882307-the-promised-land-2023-0-250-0-375-crop.jpg?v=01fc41cd"
   },
   {
-    "index": 514,
+    "index": 513,
     "title": "All Quiet on the Western Front",
     "year": "2022",
     "keyword": "yeni film",
@@ -4112,7 +4104,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/5/3/0/16530-all-quiet-on-the-western-front-2022-0-250-0-375-crop.jpg?v=5959d9ff"
   },
   {
-    "index": 515,
+    "index": 514,
     "title": "Control",
     "year": "2004",
     "keyword": "yeni film",
@@ -4120,7 +4112,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/9/6/5/46965-control-0-250-0-375-crop.jpg?v=76d08d89"
   },
   {
-    "index": 516,
+    "index": 515,
     "title": "Thief",
     "year": "1981",
     "keyword": "yeni film",
@@ -4128,7 +4120,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/2/2/4/45224-thief-0-250-0-375-crop.jpg?v=2ad7b70a"
   },
   {
-    "index": 517,
+    "index": 516,
     "title": "Sexy Beast",
     "year": "2000",
     "keyword": "yeni film",
@@ -4136,7 +4128,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/9/7/4/44974-sexy-beast-0-250-0-375-crop.jpg?v=290685ea"
   },
   {
-    "index": 518,
+    "index": 517,
     "title": "Peeping Tom",
     "year": "1960",
     "keyword": "yeni film",
@@ -4144,7 +4136,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/5/4/1/45541-peeping-tom-0-250-0-375-crop.jpg?v=c7878a51"
   },
   {
-    "index": 519,
+    "index": 518,
     "title": "Mank",
     "year": "2020",
     "keyword": "yeni film",
@@ -4152,7 +4144,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/4/1/4/2/5/541425-mank-0-250-0-375-crop.jpg?v=7645e026"
   },
   {
-    "index": 520,
+    "index": 519,
     "title": "The Blues Brothers",
     "year": "1980",
     "keyword": "yeni film",
@@ -4160,7 +4152,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/5/9/2/51592-the-blues-brothers-0-250-0-375-crop.jpg?v=08d03cde"
   },
   {
-    "index": 521,
+    "index": 520,
     "title": "The Wrestler",
     "year": "2008",
     "keyword": "yeni film",
@@ -4168,7 +4160,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/7/4/0/44740-the-wrestler-0-250-0-375-crop.jpg?v=d540336d"
   },
   {
-    "index": 522,
+    "index": 521,
     "title": "A Trip to the Moon",
     "year": "1902",
     "keyword": "yeni film",
@@ -4176,7 +4168,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/3/7/7/51377-a-trip-to-the-moon-0-250-0-375-crop.jpg?v=2c8a151b"
   },
   {
-    "index": 523,
+    "index": 522,
     "title": "The Iron Giant",
     "year": "1999",
     "keyword": "yeni film",
@@ -4184,7 +4176,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/2/8/0/46280-the-iron-giant-0-250-0-375-crop.jpg?v=ccb994b1"
   },
   {
-    "index": 524,
+    "index": 523,
     "title": "The Midnight Meat Train",
     "year": "2008",
     "keyword": "yeni film",
@@ -4192,7 +4184,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/4/6/6/46466-the-midnight-meat-train-0-250-0-375-crop.jpg?v=6500fec4"
   },
   {
-    "index": 525,
+    "index": 524,
     "title": "August Underground",
     "year": "2001",
     "keyword": "yeni film",
@@ -4200,7 +4192,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/6/4/7/5/36475-august-underground-0-250-0-375-crop.jpg?v=a9a76932"
   },
   {
-    "index": 526,
+    "index": 525,
     "title": "The Magician",
     "year": "1958",
     "keyword": "yeni film",
@@ -4208,7 +4200,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/2/8/4/9/32849-the-magician-1958-0-250-0-375-crop.jpg?v=5260e422"
   },
   {
-    "index": 527,
+    "index": 526,
     "title": "Dog Day Afternoon",
     "year": "1975",
     "keyword": "yeni film",
@@ -4216,7 +4208,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/9/5/51195-dog-day-afternoon-0-250-0-375-crop.jpg?v=3943e321"
   },
   {
-    "index": 528,
+    "index": 527,
     "title": "47 Ronin",
     "year": "2013",
     "keyword": "yeni film",
@@ -4224,7 +4216,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/8/1/281-47-ronin-2013-0-250-0-375-crop.jpg?v=efb7a21c"
   },
   {
-    "index": 529,
+    "index": 528,
     "title": "Ali's Eight Days",
     "year": "2009",
     "keyword": "yeni film",
@@ -4232,7 +4224,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/3/6/8/4/13684-alis-eight-days-0-250-0-375-crop.jpg?v=36d07e2e"
   },
   {
-    "index": 530,
+    "index": 529,
     "title": "In a Violent Nature",
     "year": "2024",
     "keyword": "yeni film",
@@ -4240,7 +4232,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/2/2/1098322-in-a-violent-nature-0-250-0-375-crop.jpg?v=c3e0a81a"
   },
   {
-    "index": 531,
+    "index": 530,
     "title": "Thirst",
     "year": "2009",
     "keyword": "yeni film",
@@ -4248,7 +4240,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/7/8/3/5/37835-thirst-2009-0-250-0-375-crop.jpg?v=84fa3edf"
   },
   {
-    "index": 532,
+    "index": 531,
     "title": "The Green Knight",
     "year": "2021",
     "keyword": "yeni film",
@@ -4256,7 +4248,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/8/8/3/9/9/488399-the-green-knight-0-250-0-375-crop.jpg?v=493d8417"
   },
   {
-    "index": 533,
+    "index": 532,
     "title": "Magnolia",
     "year": "1999",
     "keyword": "yeni film",
@@ -4264,7 +4256,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/2/8/51728-magnolia-0-250-0-375-crop.jpg?v=26f1483a"
   },
   {
-    "index": 534,
+    "index": 533,
     "title": "The Lighthouse",
     "year": "2019",
     "keyword": "yeni film",
@@ -4272,7 +4264,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/3/8/6/3/433863-the-lighthouse-2019-0-250-0-375-crop.jpg?v=ff9662ed"
   },
   {
-    "index": 535,
+    "index": 534,
     "title": "Robot Dreams",
     "year": "2023",
     "keyword": "yeni film",
@@ -4280,7 +4272,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/7/5/3/4/2/0/753420-robot-dreams-0-250-0-375-crop.jpg?v=4c126e74"
   },
   {
-    "index": 536,
+    "index": 535,
     "title": "It's Such a Beautiful Day",
     "year": "2012",
     "keyword": "yeni film",
@@ -4288,7 +4280,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/2/0/1/3/7/420137-its-such-a-beautiful-day-0-250-0-375-crop.jpg?v=cb00cb76"
   },
   {
-    "index": 537,
+    "index": 536,
     "title": "Extremely Wicked, Shockingly Evil and Vile",
     "year": "2019",
     "keyword": "yeni film",
@@ -4296,7 +4288,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/8/9/6/3/7/389637-extremely-wicked-shockingly-evil-and-vile-0-250-0-375-crop.jpg?v=ce361ae8"
   },
   {
-    "index": 538,
+    "index": 537,
     "title": "One Life",
     "year": "2023",
     "keyword": "yeni film",
@@ -4304,7 +4296,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/6/8/1/2/6/6/681266-one-life-2023-0-250-0-375-crop.jpg?v=f8775d68"
   },
   {
-    "index": 539,
+    "index": 538,
     "title": "Gone Baby Gone",
     "year": "2007",
     "keyword": "yeni film",
@@ -4312,7 +4304,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/1/4/8/49148-gone-baby-gone-0-250-0-375-crop.jpg?v=e5a1f410"
   },
   {
-    "index": 540,
+    "index": 539,
     "title": "The Stendhal Syndrome",
     "year": "1996",
     "keyword": "yeni film",
@@ -4320,7 +4312,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/5/2/5/1/25251-the-stendhal-syndrome-0-250-0-375-crop.jpg?v=a6a7dcc7"
   },
   {
-    "index": 541,
+    "index": 540,
     "title": "The Way Back",
     "year": "2020",
     "keyword": "yeni film",
@@ -4328,7 +4320,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/8/7/4/3/458743-the-way-back-2020-0-250-0-375-crop.jpg?v=2d0daf1e"
   },
   {
-    "index": 542,
+    "index": 541,
     "title": "Buffalo '66",
     "year": "1998",
     "keyword": "yeni film",
@@ -4336,7 +4328,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/1/3/3/47133-buffalo-66-0-250-0-375-crop.jpg?v=066f0bc4"
   },
   {
-    "index": 543,
+    "index": 542,
     "title": "Shame",
     "year": "2011",
     "keyword": "yeni film",
@@ -4344,7 +4336,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/6/2/4/8/3/62483-shame-2011-0-250-0-375-crop.jpg?v=c8ceac03"
   },
   {
-    "index": 544,
+    "index": 543,
     "title": "At Eternity's Gate",
     "year": "2018",
     "keyword": "yeni film",
@@ -4352,7 +4344,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/2/2/0/9/6/422096-at-eternitys-gate-0-250-0-375-crop.jpg?v=0b96d35b"
   },
   {
-    "index": 545,
+    "index": 544,
     "title": "A Girl Walks Home Alone at Night",
     "year": "2014",
     "keyword": "yeni film",
@@ -4360,7 +4352,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/7/6/0/5/3/176053-a-girl-walks-home-alone-at-night-0-250-0-375-crop.jpg?v=2e1f1990"
   },
   {
-    "index": 546,
+    "index": 545,
     "title": "50/50",
     "year": "2011",
     "keyword": "yeni film",
@@ -4368,7 +4360,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/4/1/7/7/24177-50-50-0-250-0-375-crop.jpg?v=a3ba56d4"
   },
   {
-    "index": 547,
+    "index": 546,
     "title": "Malcolm X",
     "year": "1992",
     "keyword": "yeni film",
@@ -4376,7 +4368,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/7/2/0/50720-malcolm-x-1992-0-250-0-375-crop.jpg?v=ccacf464"
   },
   {
-    "index": 548,
+    "index": 547,
     "title": "Babel",
     "year": "2006",
     "keyword": "yeni film",
@@ -4384,7 +4376,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/4/0/51140-babel-2006-0-250-0-375-crop.jpg?v=b119d0df"
   },
   {
-    "index": 549,
+    "index": 548,
     "title": "Naked",
     "year": "1993",
     "keyword": "yeni film",
@@ -4392,7 +4384,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/8/3/9/7/38397-naked-0-250-0-375-crop.jpg?v=5a7b311a"
   },
   {
-    "index": 550,
+    "index": 549,
     "title": "As Good as It Gets",
     "year": "1997",
     "keyword": "yeni film",
@@ -4400,7 +4392,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/0/2/5/50025-as-good-as-it-gets-0-250-0-375-crop.jpg?v=405ac861"
   },
   {
-    "index": 551,
+    "index": 550,
     "title": "Moonlight",
     "year": "2016",
     "keyword": "yeni film",
@@ -4408,7 +4400,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/1/2/2/0/5/312205-moonlight-2016-0-250-0-375-crop.jpg?v=c6907c8d"
   },
   {
-    "index": 598,
+    "index": 597,
     "title": "Napoleon",
     "year": "2023",
     "keyword": "yeni film",
@@ -4416,7 +4408,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/6/7/4/1/3/7/674137-napoleon-2023-0-250-0-375-crop.jpg?v=218d7828"
   },
   {
-    "index": 553,
+    "index": 552,
     "title": "Isle of Dogs",
     "year": "2018",
     "keyword": "yeni film",
@@ -4424,7 +4416,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/3/4/4/8/333448-isle-of-dogs-2018-0-250-0-375-crop.jpg?v=c583bd72"
   },
   {
-    "index": 554,
+    "index": 553,
     "title": "Past Lives",
     "year": "2023",
     "keyword": "yeni film",
@@ -4432,7 +4424,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/9/1/0/5/3/591053-past-lives-0-250-0-375-crop.jpg?v=639a95e0"
   },
   {
-    "index": 555,
+    "index": 554,
     "title": "Anatomy of a Fall",
     "year": "2023",
     "keyword": "yeni film",
@@ -4440,7 +4432,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/8/2/2/0/9/3/822093-anatomy-of-a-fall-0-250-0-375-crop.jpg?v=25843b8f"
   },
   {
-    "index": 556,
+    "index": 555,
     "title": "The Virgin Suicides",
     "year": "1999",
     "keyword": "yeni film",
@@ -4448,7 +4440,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/0/2/4/51024-the-virgin-suicides-0-250-0-375-crop.jpg?v=dec051fa"
   },
   {
-    "index": 557,
+    "index": 556,
     "title": "Sleuth",
     "year": "1972",
     "keyword": "yeni film",
@@ -4456,7 +4448,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/7/6/51176-sleuth-0-250-0-375-crop.jpg?v=a506fef5"
   },
   {
-    "index": 558,
+    "index": 557,
     "title": "The Basketball Diaries",
     "year": "1995",
     "keyword": "yeni film",
@@ -4464,7 +4456,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/1/9/5/46195-the-basketball-diaries-0-250-0-375-crop.jpg?v=6c5c401a"
   },
   {
-    "index": 559,
+    "index": 558,
     "title": "The Gambler",
     "year": "2014",
     "keyword": "yeni film",
@@ -4472,7 +4464,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/0/9/8/4/7/209847-the-gambler-2014-0-250-0-375-crop.jpg?v=46253f00"
   },
   {
-    "index": 560,
+    "index": 559,
     "title": "Stopmotion",
     "year": "2023",
     "keyword": "yeni film",
@@ -4480,7 +4472,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/7/5/5/7/1/9/755719-stopmotion-0-250-0-375-crop.jpg?v=071c14c6"
   },
   {
-    "index": 561,
+    "index": 560,
     "title": "Downfall",
     "year": "2004",
     "keyword": "yeni film",
@@ -4488,7 +4480,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/5/1/0/51510-downfall-0-250-0-375-crop.jpg?v=03414ef4"
   },
   {
-    "index": 562,
+    "index": 561,
     "title": "The Battle of Algiers",
     "year": "1966",
     "keyword": "yeni film",
@@ -4496,7 +4488,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/0/8/1/41081-the-battle-of-algiers-0-250-0-375-crop.jpg?v=08dcf52c"
   },
   {
-    "index": 563,
+    "index": 562,
     "title": "Buba",
     "year": "2022",
     "keyword": "yeni film",
@@ -4504,7 +4496,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/8/9/8/8/7/4/898874-buba-2022-0-250-0-375-crop.jpg?v=afdc292b"
   },
   {
-    "index": 564,
+    "index": 563,
     "title": "The Power of the Dog",
     "year": "2021",
     "keyword": "yeni film",
@@ -4512,7 +4504,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/2/7/8/4/1/527841-the-power-of-the-dog-0-250-0-375-crop.jpg?v=f3a70af8"
   },
   {
-    "index": 565,
+    "index": 564,
     "title": "Enemy",
     "year": "2013",
     "keyword": "yeni film",
@@ -4520,7 +4512,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/3/2/0/3/4/132034-enemy-0-250-0-375-crop.jpg?v=7924b317"
   },
   {
-    "index": 566,
+    "index": 565,
     "title": "Dead Man",
     "year": "1995",
     "keyword": "yeni film",
@@ -4528,7 +4520,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/2/3/1/51231-dead-man-0-250-0-375-crop.jpg?v=492154c6"
   },
   {
-    "index": 567,
+    "index": 566,
     "title": "Brigsby Bear",
     "year": "2017",
     "keyword": "yeni film",
@@ -4536,7 +4528,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/8/0/1/7/338017-brigsby-bear-0-250-0-375-crop.jpg?v=398633e2"
   },
   {
-    "index": 568,
+    "index": 567,
     "title": "Cruising",
     "year": "1980",
     "keyword": "yeni film",
@@ -4544,7 +4536,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/0/5/0/34050-cruising-0-250-0-375-crop.jpg?v=c6b0f661"
   },
   {
-    "index": 569,
+    "index": 568,
     "title": "The Cook, the Thief, His Wife & Her Lover",
     "year": "1989",
     "keyword": "yeni film",
@@ -4552,7 +4544,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/8/0/2/4/48024-the-cook-the-thief-his-wife-her-lover-0-250-0-375-crop.jpg?v=05df861e"
   },
   {
-    "index": 570,
+    "index": 569,
     "title": "Primal Fear",
     "year": "1996",
     "keyword": "yeni film",
@@ -4560,7 +4552,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/9/4/2/50942-primal-fear-0-250-0-375-crop.jpg?v=43fc40c2"
   },
   {
-    "index": 571,
+    "index": 570,
     "title": "Stuart: A Life Backwards",
     "year": "2007",
     "keyword": "yeni film",
@@ -4568,7 +4560,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/5/6/0/4/15604-stuart-a-life-backwards-0-250-0-375-crop.jpg?v=32b1316d"
   },
   {
-    "index": 572,
+    "index": 571,
     "title": "The Untouchables",
     "year": "1987",
     "keyword": "yeni film",
@@ -4576,7 +4568,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/3/3/51933-the-untouchables-0-250-0-375-crop.jpg?v=c6fce666"
   },
   {
-    "index": 573,
+    "index": 572,
     "title": "Love Exposure",
     "year": "2008",
     "keyword": "yeni film",
@@ -4584,7 +4576,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/6/8/6/33686-love-exposure-0-250-0-375-crop.jpg?v=7f39f3bb"
   },
   {
-    "index": 574,
+    "index": 573,
     "title": "Zoo",
     "year": "2007",
     "keyword": "yeni film",
@@ -4592,7 +4584,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/0/0/1/3/40013-zoo-0-250-0-375-crop.jpg?v=eaa609ce"
   },
   {
-    "index": 575,
+    "index": 574,
     "title": "Ex Drummer",
     "year": "2007",
     "keyword": "yeni film",
@@ -4600,7 +4592,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/4/0/5/43405-ex-drummer-0-250-0-375-crop.jpg?v=f0218a78"
   },
   {
-    "index": 576,
+    "index": 575,
     "title": "Nymphomaniac: Vol. I",
     "year": "2013",
     "keyword": "yeni film",
@@ -4608,7 +4600,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/8/1/9/3/7/181937-nymphomaniac-volume-i-0-250-0-375-crop.jpg?v=f0440e90"
   },
   {
-    "index": 577,
+    "index": 576,
     "title": "Salò, or the 120 Days of Sodom",
     "year": "1975",
     "keyword": "yeni film",
@@ -4616,7 +4608,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/8/8/6/5/48865-salo-or-the-120-days-of-sodom-0-250-0-375-crop.jpg?v=ff0a4c0d"
   },
   {
-    "index": 578,
+    "index": 577,
     "title": "A Ghost Story",
     "year": "2017",
     "keyword": "yeni film",
@@ -4624,7 +4616,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/6/1/7/2/5/361725-a-ghost-story-2017-0-250-0-375-crop.jpg?v=52c39dd3"
   },
   {
-    "index": 579,
+    "index": 578,
     "title": "Enter the Void",
     "year": "2009",
     "keyword": "yeni film",
@@ -4632,7 +4624,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/9/0/4/1/29041-enter-the-void-0-250-0-375-crop.jpg?v=358c78b5"
   },
   {
-    "index": 580,
+    "index": 579,
     "title": "Stop Making Sense",
     "year": "1984",
     "keyword": "yeni film",
@@ -4640,7 +4632,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/7/0/0/4/37004-stop-making-sense-0-250-0-375-crop.jpg?v=6dd761aa"
   },
   {
-    "index": 581,
+    "index": 580,
     "title": "And Then There Were None",
     "year": "1945",
     "keyword": "yeni film",
@@ -4648,7 +4640,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/0/9/8/49098-and-then-there-were-none-0-250-0-375-crop.jpg?v=dbb46ec7"
   },
   {
-    "index": 582,
+    "index": 581,
     "title": "Junk Head",
     "year": "2017",
     "keyword": "yeni film",
@@ -4656,7 +4648,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/9/6/4/0/2/396402-junk-head-0-250-0-375-crop.jpg?v=fdcb63df"
   },
   {
-    "index": 583,
+    "index": 582,
     "title": "Glass",
     "year": "2019",
     "keyword": "yeni film",
@@ -4664,7 +4656,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/8/2/6/6/9/382669-glass-2019-0-250-0-375-crop.jpg?v=2ef3eaa2"
   },
   {
-    "index": 584,
+    "index": 583,
     "title": "Murder by Death",
     "year": "1976",
     "keyword": "yeni film",
@@ -4672,7 +4664,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/8/4/8/6/48486-murder-by-death-0-250-0-375-crop.jpg?v=5a99e27b"
   },
   {
-    "index": 585,
+    "index": 584,
     "title": "Ichi the Killer",
     "year": "2001",
     "keyword": "yeni film",
@@ -4680,7 +4672,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/9/0/8/46908-ichi-the-killer-0-250-0-375-crop.jpg?v=72563c9d"
   },
   {
-    "index": 586,
+    "index": 585,
     "title": "Only God Forgives",
     "year": "2013",
     "keyword": "yeni film",
@@ -4688,7 +4680,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/6/4/4/2/7/64427-only-god-forgives-0-250-0-375-crop.jpg?v=b3f2de0e"
   },
   {
-    "index": 587,
+    "index": 586,
     "title": "The Whale",
     "year": "2022",
     "keyword": "yeni film",
@@ -4696,7 +4688,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/7/0/3/4/7/8/703478-the-whale-2022-0-250-0-375-crop.jpg?v=dda9329b"
   },
   {
-    "index": 588,
+    "index": 587,
     "title": "Babylon",
     "year": "2022",
     "keyword": "yeni film",
@@ -4704,7 +4696,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/4/2/7/7/3/542773-babylon-2022-0-250-0-375-crop.jpg?v=718d5b87"
   },
   {
-    "index": 589,
+    "index": 588,
     "title": "I, Tonya",
     "year": "2017",
     "keyword": "yeni film",
@@ -4712,7 +4704,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/2/3/6/0/9/323609-i-tonya-0-250-0-375-crop.jpg?v=245a3cf5"
   },
   {
-    "index": 590,
+    "index": 589,
     "title": "The Thing",
     "year": "1982",
     "keyword": "yeni film",
@@ -4720,7 +4712,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/5/5/51155-the-thing-0-250-0-375-crop.jpg?v=1fc59a75"
   },
   {
-    "index": 591,
+    "index": 590,
     "title": "The Revenant",
     "year": "2015",
     "keyword": "yeni film",
@@ -4728,7 +4720,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/0/7/2/2/4/207224-the-revenant-2015-0-250-0-375-crop.jpg?v=45a98f8d"
   },
   {
-    "index": 592,
+    "index": 591,
     "title": "Brokeback Mountain",
     "year": "2005",
     "keyword": "yeni film",
@@ -4736,7 +4728,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/0/9/51909-brokeback-mountain-0-250-0-375-crop.jpg?v=2116100e"
   },
   {
-    "index": 593,
+    "index": 592,
     "title": "Apocalypse Now",
     "year": "1979",
     "keyword": "yeni film",
@@ -4744,7 +4736,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/6/9/0/2690-apocalypse-now-0-250-0-375-crop.jpg?v=1834ffa6"
   },
   {
-    "index": 594,
+    "index": 593,
     "title": "The Hateful Eight",
     "year": "2015",
     "keyword": "yeni film",
@@ -4752,7 +4744,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/9/7/0/1/2/197012-the-hateful-eight-0-250-0-375-crop.jpg?v=481d6f22"
   },
   {
-    "index": 595,
+    "index": 594,
     "title": "Amadeus",
     "year": "1984",
     "keyword": "yeni film",
@@ -4760,7 +4752,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/7/7/51777-amadeus-0-250-0-375-crop.jpg?v=624d493f"
   },
   {
-    "index": 596,
+    "index": 595,
     "title": "The Father",
     "year": "2020",
     "keyword": "yeni film",
@@ -4768,7 +4760,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/2/7/6/7/1/527671-the-father-2020-0-250-0-375-crop.jpg?v=244be13b"
   },
   {
-    "index": 597,
+    "index": 596,
     "title": "Dallas Buyers Club",
     "year": "2013",
     "keyword": "yeni film",
@@ -4776,7 +4768,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/4/6/0/5/114605-dallas-buyers-club-0-250-0-375-crop.jpg?v=ae9d517e"
   },
   {
-    "index": 598,
+    "index": 597,
     "title": "Napoleon",
     "year": "2023",
     "keyword": "yeni film",
@@ -4784,7 +4776,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/6/7/4/1/3/7/674137-napoleon-2023-0-250-0-375-crop.jpg?v=218d7828"
   },
   {
-    "index": 599,
+    "index": 598,
     "title": "The Good, the Bad and the Ugly",
     "year": "1966",
     "keyword": "yeni film",
@@ -4792,7 +4784,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/6/6/6/51666-the-good-the-bad-and-the-ugly-0-250-0-375-crop.jpg?v=d4559988"
   },
   {
-    "index": 600,
+    "index": 599,
     "title": "12 Years a Slave",
     "year": "2013",
     "keyword": "yeni film",
@@ -4800,7 +4792,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/6/2/6/7/1/62671-12-years-a-slave-0-250-0-375-crop.jpg?v=f0325773"
   },
   {
-    "index": 601,
+    "index": 600,
     "title": "Zombieland",
     "year": "2009",
     "keyword": "yeni film",
@@ -4808,7 +4800,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/9/3/5/2/39352-zombieland-0-250-0-375-crop.jpg?v=442b58cb"
   },
   {
-    "index": 602,
+    "index": 601,
     "title": "Beau Is Afraid",
     "year": "2023",
     "keyword": "yeni film",
@@ -4816,7 +4808,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/7/1/5/8/5/6/715856-beau-is-afraid-0-250-0-375-crop.jpg?v=e0608095"
   },
   {
-    "index": 603,
+    "index": 602,
     "title": "School of Rock",
     "year": "2003",
     "keyword": "yeni film",
@@ -4824,7 +4816,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/9/5/0/50950-school-of-rock-0-250-0-375-crop.jpg?v=ba448a9d"
   },
   {
-    "index": 604,
+    "index": 603,
     "title": "Top Gun",
     "year": "1986",
     "keyword": "yeni film",
@@ -4832,7 +4824,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/4/0/8/51408-top-gun-0-250-0-375-crop.jpg?v=6ab46f10"
   },
   {
-    "index": 605,
+    "index": 604,
     "title": "Barry Lyndon",
     "year": "1975",
     "keyword": "yeni film",
@@ -4840,7 +4832,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/8/1/1/49811-barry-lyndon-0-250-0-375-crop.jpg?v=a4b65c5e"
   },
   {
-    "index": 606,
+    "index": 605,
     "title": "Airplane!",
     "year": "1980",
     "keyword": "yeni film",
@@ -4848,7 +4840,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/3/3/9/51339-airplane-0-250-0-375-crop.jpg?v=458f1256"
   },
   {
-    "index": 607,
+    "index": 606,
     "title": "Maestro",
     "year": "2023",
     "keyword": "yeni film",
@@ -4856,7 +4848,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/3/0/6/9/453069-maestro-2023-0-250-0-375-crop.jpg?v=b5949ec6"
   },
   {
-    "index": 608,
+    "index": 607,
     "title": "I Care a Lot",
     "year": "2020",
     "keyword": "yeni film",
@@ -4864,7 +4856,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/2/9/2/0/3/529203-i-care-a-lot-0-250-0-375-crop.jpg?v=91d5c7ea"
   },
   {
-    "index": 609,
+    "index": 608,
     "title": "Hamilton",
     "year": "2020",
     "keyword": "yeni film",
@@ -4872,7 +4864,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/8/5/3/0/9/485309-hamilton-2020-0-250-0-375-crop.jpg?v=d1e09d35"
   },
   {
-    "index": 610,
+    "index": 609,
     "title": "Fury",
     "year": "2014",
     "keyword": "yeni film",
@@ -4880,7 +4872,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/0/4/9/7/160497-fury-2014-0-250-0-375-crop.jpg?v=b6a5bc7a"
   },
   {
-    "index": 611,
+    "index": 610,
     "title": "Sin City",
     "year": "2005",
     "keyword": "yeni film",
@@ -4888,7 +4880,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/6/5/51865-sin-city-0-250-0-375-crop.jpg?v=8b1b8b9f"
   },
   {
-    "index": 612,
+    "index": 611,
     "title": "Vice",
     "year": "2018",
     "keyword": "yeni film",
@@ -4896,7 +4888,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/3/6/2/3/6/5/362365-vice-2018-0-250-0-375-crop.jpg?v=8c527b15"
   },
   {
-    "index": 613,
+    "index": 612,
     "title": "The Elephant Man",
     "year": "1980",
     "keyword": "yeni film",
@@ -4904,7 +4896,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/6/5/3/50653-the-elephant-man-0-250-0-375-crop.jpg?v=a74cf846"
   },
   {
-    "index": 614,
+    "index": 613,
     "title": "Zombieland: Double Tap",
     "year": "2019",
     "keyword": "yeni film",
@@ -4912,7 +4904,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/6/8/3/8/0/268380-zombieland-double-tap-0-250-0-375-crop.jpg?v=6e30f5bc"
   },
   {
-    "index": 615,
+    "index": 614,
     "title": "Loving Vincent",
     "year": "2017",
     "keyword": "yeni film",
@@ -4920,7 +4912,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/2/6/9/3/5/8/269358-loving-vincent-0-250-0-375-crop.jpg?v=8022a835"
   },
   {
-    "index": 616,
+    "index": 615,
     "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
     "year": "1964",
     "keyword": "yeni film",
@@ -4928,7 +4920,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/2/1/8/51218-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-0-250-0-375-crop.jpg?v=525138c3"
   },
   {
-    "index": 617,
+    "index": 616,
     "title": "The Breakfast Club",
     "year": "1985",
     "keyword": "yeni film",
@@ -4936,7 +4928,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/5/1/8/50518-the-breakfast-club-0-250-0-375-crop.jpg?v=a4834d18"
   },
   {
-    "index": 618,
+    "index": 617,
     "title": "Funny Games",
     "year": "2007",
     "keyword": "yeni film",
@@ -4944,7 +4936,7 @@ window.MOVIES = [
     "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/7/1/0/47710-funny-games-2007-0-250-0-375-crop.jpg?v=3951ea2d"
   },
   {
-    "index": 619,
+    "index": 618,
     "title": "Cannibal Holocaust",
     "year": "1980",
     "keyword": "yeni film",
