@@ -3733,7 +3733,7 @@ window.MOVIES = [
     "year": "2001",
     "keyword": "yeni film",
     "summary": "yeni eklendi",
-    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/3/3/6/44336-suicide-club-0-250-0-375-crop.jpg?v=a3083f2f"
+    "posterUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/3/3/6/44336-suicide-club-0-250-0-375-crop.jpg?v=dc890911"
   },
   {
     "index": 468,
